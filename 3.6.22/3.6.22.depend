@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1646675049 source:c:\users\lyrr\documents\codeblocks\3.6.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646671296 source:c:\users\lyrr\documents\codeblocks\3.6.22\factorial.c
+	<stdio.h>
+
+1646671851 source:c:\users\lyrr\documents\codeblocks\3.6.22\max_2.c
+	<stdio.h>
+
+1646672443 source:c:\users\lyrr\documents\codeblocks\3.6.22\prime.c
+	<stdio.h>
+
+1646672848 source:c:\users\lyrr\documents\codeblocks\3.6.22\incdec.c
+	<stdio.h>
+
+1646673604 source:c:\users\lyrr\documents\codeblocks\3.6.22\table_ascii.c
+	<stdio.h>
+
+1646675293 source:c:\users\lyrr\documents\codeblocks\3.6.22\caesar_code.c
+	<stdio.h>
+
+1646624498 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\factorial.c
+	<stdio.h>
+
+1646626050 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\incdec.c
+	<stdio.h>
+
+1646628250 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646625052 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\max_2.c
+	<stdio.h>
+
+1646625644 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\prime.c
+	<stdio.h>
+
+1646626806 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\table_ascii.c
+	<stdio.h>
+
+1648897657 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.6.22\caesar_code.c
+	<stdio.h>
+
