@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1648125838 source:c:\users\lyrr\documents\mine.c
+
+1648126145 source:c:\users\lyrr\documents\codeblocks\3.24.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648124637 source:c:\users\lyrr\documents\codeblocks\3.24.22\dumbcalc.c
+	<string.h>
+
+1648126128 source:c:\users\lyrr\documents\codeblocks\3.24.22\array_power.c
+
+1648810230 source:c:\users\vici\downloads\telegram desktop\3.6.22\lib\mine.c
+
+1648899520 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.24.22\array_power.c
+
+1648124638 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.24.22\dumbcalc.c
+	<string.h>
+
+1648126146 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.24.22\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1648294886 source:c:\users\lyrr\documents\codeblocks\3.26.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648290857 source:c:\users\lyrr\documents\codeblocks\3.26.22\arr_palindrome.c
+
+1648294902 source:c:\users\lyrr\documents\mine.c
+
+1648708307 source:c:\users\lyrr\documents\codeblocks\3.26.22\conway.c
+	<time.h>
+
+1648810230 source:c:\users\vici\downloads\telegram desktop\3.6.22\lib\mine.c
+
+1648290858 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.26.22\arr_palindrome.c
+
+1648899639 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.26.22\conway.c
+
+1648899644 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.26.22\main.c
+	<stdio.h>
+	<stdlib.h>
+

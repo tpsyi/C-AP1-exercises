@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1647330529 source:c:\users\lyrr\documents\codeblocks\3.15.22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1647323884 source:c:\users\lyrr\documents\codeblocks\3.15.22\point1.c
+
+1647326953 source:c:\users\lyrr\documents\codeblocks\3.15.22\matdot.c
+
+1647327750 source:c:\users\lyrr\documents\codeblocks\3.15.22\arr_odd_even.c
+
+1647329416 source:c:\users\lyrr\documents\codeblocks\3.15.22\arr_search.c
+
+1647329844 source:c:\users\lyrr\documents\codeblocks\3.15.22\arr_diff_max.c
+
+1647330517 source:c:\users\lyrr\documents\codeblocks\3.15.22\arr_hw.c
+
+1648898032 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.15.22\arr_diff_max.c
+
+1648898000 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.15.22\arr_hw.c
+
+1648898141 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.15.22\arr_odd_even.c
+
+1648898102 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.15.22\arr_search.c
+
+1648898144 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.15.22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1647326954 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.15.22\matdot.c
+

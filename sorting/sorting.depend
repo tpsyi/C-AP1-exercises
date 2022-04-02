@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1647248219 source:c:\users\lyrr\documents\codeblocks\sorting\bubblesort.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1647327652 source:c:\users\lyrr\documents\codeblocks\sorting\insertion_incomplete.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1647248268 source:c:\users\lyrr\documents\codeblocks\sorting\lastone.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1648810035 source:c:\users\lyrr\documents\codeblocks\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1647248725 source:c:\users\lyrr\documents\codeblocks\sorting\mdarray.c
+	<stdio.h>
+	<stdlib.h>
+
+1648810011 source:c:\users\lyrr\documents\codeblocks\sorting\transpose.c
+
+1648809800 source:c:\users\lyrr\documents\codeblocks\sorting\matrixsum.c
+
+1647251655 source:c:\users\lyrr\documents\codeblocks\sorting\matrot.c
+
+1647326049 source:c:\users\lyrr\documents\codeblocks\sorting\matelim.c
+
+1647328047 source:c:\users\lyrr\documents\codeblocks\sorting\insertion.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1647326271 source:c:\users\lyrr\documents\codeblocks\sorting\matdot.c
+
