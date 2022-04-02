@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1648118112 source:c:\users\lyrr\documents\codeblocks\3.17.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647596595 source:c:\users\lyrr\documents\codeblocks\3.17.22\bingo.c
+
+1647509821 source:c:\users\lyrr\documents\mine.c
+
+1647515005 source:c:\users\lyrr\documents\codeblocks\3.17.22\histogram.c
+
+1647597896 source:c:\users\lyrr\documents\codeblocks\3.17.22\arr_search2.c
+
+1648810230 source:c:\users\vici\downloads\telegram desktop\3.6.22\lib\mine.c
+
+1648898691 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.17.22\arr_search2.c
+
+1647596596 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.17.22\bingo.c
+
+1648898638 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.17.22\histogram.c
+
+1648898696 source:c:\users\vici\downloads\telegram desktop\3.6.22\3.17.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
